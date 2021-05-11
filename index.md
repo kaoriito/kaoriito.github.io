@@ -2,7 +2,8 @@
 
 I am a health research and data scientist based in Los Angeles. I have a clinical background as a board-certified Occupational Therapist, and I am a freshly minted Ph.D. from the University of Southern California (thesis: _Neural and psychosocial correlates of age-related changes in goal-directed and habitual decision-making_). 
 
-<br></br>
+<br />
+
 # Current projects
 
 - ### Predicting ICU Length of Stay 
@@ -11,7 +12,8 @@ I am a health research and data scientist based in Los Angeles. I have a clinica
 
 - ### Predicting stroke motor outcomes from corticospinal tract lesion load
 
-<br></br>
+<br />
+
 # Previous projects
 
 - ### Evaluation of Lesion Segmentation Algorithms (ELSA)
