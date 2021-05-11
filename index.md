@@ -22,12 +22,16 @@ Baseline MSE was improved from 40.44 to 12.13 (test MSE), and baseline MAE was i
 
 <details>
   <summary> Neural and psychosocial correlates of age-related changes in decision-making (dissertation) </summary>
+  
+<br />
 
 Details coming soon!
 </details>
 
 <details>
   <summary> Predicting stroke motor outcomes from corticospinal tract lesion load </summary>
+  
+<br />
 
 Details coming soon!
 </details>
@@ -38,14 +42,18 @@ Details coming soon!
 
 <details>
   <summary> Evaluation of Lesion Segmentation Algorithms (ELSA) </summary>
+  
 <br />
+
 Details coming soon!
 </details>
 
 <br />
 <details>
   <summary> Pipeline for the Analysis of Lesions after Stroke (PALS) </summary>
+  
 <br />
+
 Details coming soon!
 </details>
 
