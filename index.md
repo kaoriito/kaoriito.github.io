@@ -2,9 +2,19 @@
 
 I am a health research and data scientist based in Los Angeles. I have a clinical background as a board-certified Occupational Therapist, and I am a freshly minted Ph.D. from the University of Southern California (thesis: _Neural and psychosocial correlates of age-related changes in goal-directed and habitual decision-making_). 
 
-### Markdown
+## Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Predicting ICU Length of Stay
+
+### Age-related changes in decision-making
+
+### Predicting stroke motor outcomes from corticospinal tract lesion load
+
+### Evaluation of Lesion Segmentation Algorithms (ELSA)
+
+### Pipeline for the Analysis of Lesions after Stroke (PALS)
+
+
 
 ```markdown
 Syntax highlighted code block
