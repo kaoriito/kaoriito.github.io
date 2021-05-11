@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Kaori Ito
 description: Welcome to my home page!
+
+markdown: kramdown
+kramdown:
+  parse_block_html: true
