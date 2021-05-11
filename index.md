@@ -1,8 +1,6 @@
-## Kaori Ito
+## Hello! 
 
-You can use the [editor on GitHub](https://github.com/kaoriito/kaoriito.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a health research and data scientist based in Los Angeles. I have a clinical background as a board-certified Occupational Therapist, and I am a freshly minted Ph.D. from the University of Southern California (thesis: _Neural and psychosocial correlates of age-related changes in goal-directed and habitual decision-making_). 
 
 ### Markdown
 
