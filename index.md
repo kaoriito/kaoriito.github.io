@@ -4,17 +4,17 @@ I am a health research and data scientist based in Los Angeles. I have a clinica
 
 # Current projects
 
-### - Predicting ICU Length of Stay 
+- ### Predicting ICU Length of Stay 
 
-### - Neural and psychosocial correlates of age-related changes in decision-making (dissertation)
+- ### Neural and psychosocial correlates of age-related changes in decision-making (dissertation)
 
-### - Predicting stroke motor outcomes from corticospinal tract lesion load
+- ### Predicting stroke motor outcomes from corticospinal tract lesion load
 
 # Previous projects
 
-### - Evaluation of Lesion Segmentation Algorithms (ELSA)
+- ### Evaluation of Lesion Segmentation Algorithms (ELSA)
 
-### - Pipeline for the Analysis of Lesions after Stroke (PALS)
+- ### Pipeline for the Analysis of Lesions after Stroke (PALS)
 
 
 
