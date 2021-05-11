@@ -4,22 +4,17 @@ I am a health research and data scientist based in Los Angeles. I have a clinica
 
 # Current projects
 
-### Predicting ICU Length of Stay 
-- I used the Medical Information Mart for Intensive Care III (MIMIC-III) database to predict ICU length of stay. 
-- Physician notes (using Bag of Words natural language processing), previous hospital admissions, ICD codes, and demographic data were engineered as features in an XGBoost model. 
-- Randomized search was used for hyperparameter tuning. 
-- Baseline MSE was improved from 40.44 to 12.13 (test MSE), and baseline MAE was improved from 3.46 to 1.24 (test MAE). I am currently working on improving the model to decrease variance.
+### - Predicting ICU Length of Stay 
 
-### Neural and psychosocial correlates of age-related changes in decision-making (dissertation)
+### - Neural and psychosocial correlates of age-related changes in decision-making (dissertation)
 
-
-### Predicting stroke motor outcomes from corticospinal tract lesion load
+### - Predicting stroke motor outcomes from corticospinal tract lesion load
 
 # Previous projects
 
-### Evaluation of Lesion Segmentation Algorithms (ELSA)
+### - Evaluation of Lesion Segmentation Algorithms (ELSA)
 
-### Pipeline for the Analysis of Lesions after Stroke (PALS)
+### - Pipeline for the Analysis of Lesions after Stroke (PALS)
 
 
 
