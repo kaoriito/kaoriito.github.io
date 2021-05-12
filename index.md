@@ -77,5 +77,5 @@ Github
 ### Contact:
 LinkedIn
 email: kaoriito@usc.edu
-twitter: @litoly924
+twitter: @litoly24
 
