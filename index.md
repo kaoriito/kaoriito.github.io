@@ -9,6 +9,7 @@ I am a health research and data scientist based in Los Angeles. I have a clinica
 <details>  
   <summary> Predicting ICU Length of Stay </summary>
 
+<br />
 
 I used the Medical Information Mart for Intensive Care III (MIMIC-III) database to predict ICU length of stay, and engineered physician notes (using Bag of Words natural language processing), previous hospital admissions, ICD codes, and demographic data as features in an XGBoost model. 
 
@@ -19,6 +20,7 @@ Baseline MSE was improved from 40.44 to 12.13 (test MSE), and baseline MAE was i
 </details>
 
 
+<br />
 
 <details>
   <summary> Neural and psychosocial correlates of age-related changes in decision-making (dissertation) </summary>
@@ -27,6 +29,8 @@ Baseline MSE was improved from 40.44 to 12.13 (test MSE), and baseline MAE was i
 
 Details coming soon!
 </details>
+
+<br /> 
 
 <details>
   <summary> Predicting stroke motor outcomes from corticospinal tract lesion load </summary>
