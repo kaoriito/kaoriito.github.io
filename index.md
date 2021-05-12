@@ -50,7 +50,9 @@ More details coming soon!
   <summary><span style="font-size:18px"><b> Evaluation of Lesion Segmentation Algorithms (ELSA) </b></span></summary>
  
 <br />
-- [Github](https://github.com/npnl/elsa)
+
+[Github](https://github.com/npnl/elsa)
+
 <br />
 More details coming soon! 
 </details>
@@ -60,7 +62,9 @@ More details coming soon!
   <summary><span style="font-size:18px"><b> Pipeline for the Analysis of Lesions after Stroke (PALS) </b></span></summary>
   
 <br />
-- [Github](https://github.com/npnl/PALS)
+
+[Github](https://github.com/npnl/PALS)
+
 <br />
 More details coming soon! 
 </details>
