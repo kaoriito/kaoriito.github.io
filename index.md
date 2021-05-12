@@ -5,7 +5,6 @@ I am a health research and data scientist based in Los Angeles. I have a clinica
 <br />
 
 # Current projects
-
 <details>  
   <summary><span style="font-size:18px"><b>Predicting ICU Length of Stay </b></span></summary>
 
