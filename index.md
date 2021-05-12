@@ -69,13 +69,13 @@ Details coming soon!
 # Connect
 
 ### Read more:
-CV | Resume
-[Google Scholar](https://scholar.google.com/citations?user=31RsuNEAAAAJ&hl=en)
-Research gate
-Github
+CV | Resume |
+[Google Scholar](https://scholar.google.com/citations?user=31RsuNEAAAAJ&hl=en) |
+[ResearchGate](https://www.researchgate.net/profile/Kaori-Ito) |
+[Github](https://github.com/kaoriito)
 
 ### Contact:
-LinkedIn
-email: kaoriito@usc.edu
+LinkedIn |
+email: kaoriito@usc.edu |
 twitter: @litoly24
 
