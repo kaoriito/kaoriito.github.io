@@ -75,7 +75,7 @@ CV | Resume |
 [Github](https://github.com/kaoriito)
 
 ### Contact:
-LinkedIn |
-email: kaoriito@usc.edu |
-twitter: @litoly24
+[LinkedIn](https://www.linkedin.com/in/kaori-ito-62a53384) |
+email: <a href="mailto:kaoriito@usc.edu">kaoriito@usc.edu</a> |
+twitter: [@litoly24](https://twitter.com/lilyito24)
 
