@@ -29,7 +29,7 @@ Baseline MSE was improved from 40.44 to 12.13 (test MSE), and baseline MAE was i
   
 <br />
 
-Details coming soon!
+More details coming soon!
 </details>
 
 <br /> 
@@ -39,7 +39,7 @@ Details coming soon!
   
 <br />
 
-Details coming soon!
+More details coming soon!
 </details>
 
 <br />
@@ -48,10 +48,11 @@ Details coming soon!
 
 <details>
   <summary><span style="font-size:18px"><b> Evaluation of Lesion Segmentation Algorithms (ELSA) </b></span></summary>
-  
+ 
 <br />
-
-Details coming soon!
+- [Github](https://github.com/npnl/elsa)
+<br />
+More details coming soon! 
 </details>
 
 <br />
@@ -59,8 +60,9 @@ Details coming soon!
   <summary><span style="font-size:18px"><b> Pipeline for the Analysis of Lesions after Stroke (PALS) </b></span></summary>
   
 <br />
-
-Details coming soon!
+- [Github](https://github.com/npnl/PALS)
+<br />
+More details coming soon! 
 </details>
 
 <br />
@@ -69,6 +71,7 @@ Details coming soon!
 # Connect
 
 Read more:
+<br />
 CV | Resume |
 [Google Scholar](https://scholar.google.com/citations?user=31RsuNEAAAAJ&hl=en) |
 [ResearchGate](https://www.researchgate.net/profile/Kaori-Ito) |
@@ -76,6 +79,7 @@ CV | Resume |
 
 <br />
 Contact:
+<br />
 [LinkedIn](https://www.linkedin.com/in/kaori-ito-62a53384) |
 email: <a href="mailto:kaoriito@usc.edu">kaoriito@usc.edu</a> |
 twitter: [@litoly24](https://twitter.com/lilyito24)
