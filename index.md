@@ -7,7 +7,7 @@ I am a health research and data scientist based in Los Angeles. I have a clinica
 # Current projects
 
 <details>  
-  <summary><span style="font-size:20px"><b>Predicting ICU Length of Stay </b></span></summary>
+  <summary><span style="font-size:18px"><b>Predicting ICU Length of Stay </b></span></summary>
 
 <br />
 
@@ -25,7 +25,7 @@ Baseline MSE was improved from 40.44 to 12.13 (test MSE), and baseline MAE was i
 <br />
 
 <details>
-  <summary><span style="font-size:20px"><b> Neural and psychosocial correlates of age-related changes in decision-making (dissertation) </b></span></summary>
+  <summary><span style="font-size:18px"><b> Neural and psychosocial correlates of age-related changes in decision-making (dissertation) </b></span></summary>
   
 <br />
 
@@ -35,7 +35,7 @@ Details coming soon!
 <br /> 
 
 <details>
-  <summary><span style="font-size:20px"><b> Predicting stroke motor outcomes from corticospinal tract lesion load </b></span></summary>
+  <summary><span style="font-size:18px"><b> Predicting stroke motor outcomes from corticospinal tract lesion load </b></span></summary>
   
 <br />
 
@@ -47,7 +47,7 @@ Details coming soon!
 # Previous projects
 
 <details>
-  <summary><span style="font-size:20px"><b> Evaluation of Lesion Segmentation Algorithms (ELSA) </b></span></summary>
+  <summary><span style="font-size:18px"><b> Evaluation of Lesion Segmentation Algorithms (ELSA) </b></span></summary>
   
 <br />
 
@@ -56,7 +56,7 @@ Details coming soon!
 
 <br />
 <details>
-  <summary><span style="font-size:20px"><b> Pipeline for the Analysis of Lesions after Stroke (PALS) </b></span></summary>
+  <summary><span style="font-size:18px"><b> Pipeline for the Analysis of Lesions after Stroke (PALS) </b></span></summary>
   
 <br />
 
