@@ -9,9 +9,7 @@ I am a health research and data scientist based in Los Angeles. I have a clinica
 <details>  
   <summary><span style="font-size:18px"><b>Predicting ICU Length of Stay </b></span></summary>
 
-<br /> 
-
-[Github](https://github.com/kaoriito/icu_los) 
+<a href="https://github.com/kaoriito/icu_los">Github</a>
 <br />
 <br />
    I used the Medical Information Mart for Intensive Care III (MIMIC-III) database to predict ICU length of stay, and engineered physician notes (using Bag of Words natural language processing), previous hospital admissions, ICD codes, and demographic data as features in an XGBoost model. 
@@ -52,8 +50,7 @@ More details coming soon!
   <summary><span style="font-size:18px"><b> Evaluation of Lesion Segmentation Algorithms (ELSA) </b></span></summary>
  
 <br />
-
- [Github](https://github.com/npnl/elsa)
+<a href="https://github.com/npnl/elsa">Github</a>
 
 <br />
 More details coming soon! 
@@ -64,8 +61,8 @@ More details coming soon!
   <summary><span style="font-size:18px"><b> Pipeline for the Analysis of Lesions after Stroke (PALS) </b></span></summary>
   
 <br />
+<a href="https://github.com/npnl/PALS">Github</a>
 
-[Github](https://github.com/npnl/PALS)
 
 <br />
 More details coming soon! 
