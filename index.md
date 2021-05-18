@@ -9,6 +9,7 @@ I am a health research and data scientist based in Los Angeles. I have a clinica
 <details>  
   <summary><span style="font-size:18px"><b>Predicting ICU Length of Stay </b></span></summary>
 
+<br /> 
 
 [Github](https://github.com/kaoriito/icu_los) 
 <br />
@@ -52,7 +53,7 @@ More details coming soon!
  
 <br />
 
-[Github](https://github.com/npnl/elsa)
+ [Github](https://github.com/npnl/elsa)
 
 <br />
 More details coming soon! 
