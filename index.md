@@ -75,7 +75,8 @@ More details coming soon!
 
 Read more:
 <br />
-CV | Resume |
+[Resume](https://drive.google.com/file/d/1prDMquOUR1qLoZzZsx6sZcXRKyQDNon0/view?usp=sharing) |
+[CV](https://drive.google.com/file/d/1RQR6CArQuqhCvt_h08Oqs9FrHNCBSvAI/view?usp=sharing) | 
 [Google Scholar](https://scholar.google.com/citations?user=31RsuNEAAAAJ&hl=en) |
 [ResearchGate](https://www.researchgate.net/profile/Kaori-Ito) |
 [Github](https://github.com/kaoriito)
