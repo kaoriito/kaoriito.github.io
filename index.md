@@ -71,8 +71,8 @@ More details coming soon!
 
 Read more:
 <br />
-[Resume](https://drive.google.com/file/d/1prDMquOUR1qLoZzZsx6sZcXRKyQDNon0/view?usp=sharing) |
-[CV](https://drive.google.com/file/d/1RQR6CArQuqhCvt_h08Oqs9FrHNCBSvAI/view?usp=sharing) | 
+[Resume](https://drive.google.com/file/d/1TOi2PK4pya6_u87OrPzRry30I_SGHniY/view?usp=sharing) |
+[CV](https://drive.google.com/file/d/1pz40VUYiLprpdxzxDvVmHua0OjyxWTCt/view?usp=sharing) | 
 [Google Scholar](https://scholar.google.com/citations?user=31RsuNEAAAAJ&hl=en) |
 [ResearchGate](https://www.researchgate.net/profile/Kaori-Ito) |
 [Github](https://github.com/kaoriito)
