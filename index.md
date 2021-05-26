@@ -16,7 +16,7 @@ I am a health research and data scientist based in Los Angeles. I have a clinica
 
 <br />
 
-   Baseline MSE was improved from 40.44 to 12.13 (test MSE), and baseline MAE was improved from 3.46 to 1.24 (test MAE). I am currently working on improving the model to decrease variance.
+   Baseline MSE was improved from 40.44 to 12.13 (test MSE), and baseline MAE was improved from 3.46 to 1.24 (test MAE).
 
   
 </details>
