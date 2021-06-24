@@ -18,7 +18,7 @@ I am a proponent of open science and open source programming, a pandemic-convert
    I used the Medical Information Mart for Intensive Care III (MIMIC-III) database to predict ICU length of stay, and engineered physician notes (using Bag of Words natural language processing), previous hospital admissions, physiological data, ICD codes, and demographic data as features in an XGBoost model. 
 
 <br />
-
+<br />
    Baseline MSE was improved from 39.69 to 1.85 (test MSE), and baseline MAE was improved from 3.44 to 0.61 (test MAE).
 
   
@@ -34,7 +34,9 @@ I am a proponent of open science and open source programming, a pandemic-convert
 
   I studied how the brain and other psychosocial variables, such as stress, are related to changes in decision-making with aging. 
 <br />
+<br />
   I used a reinforcement learning paradigm (using MCMC for parameter estimation) to measure decision-making strategies in young and older adults, and then used K-means clustering to group different types of learners together. 
+<br />
 <br />
   Since I had a lot of input variables, I used a multinomial logistic lasso regression to determine which psychosocial variables are the strongest predictors of decision-making, and found age and working memory to be the primary predictor across both young and older adults. More details to come soon.
   
