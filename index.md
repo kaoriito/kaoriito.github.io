@@ -1,6 +1,6 @@
 # Hello! 
 
-I am a health research and data scientist based in Los Angeles. I have a clinical background as a board-certified Occupational Therapist, and I am a freshly minted Ph.D. from the University of Southern California (thesis: _Neural and psychosocial correlates of age-related changes in goal-directed and habitual decision-making_). 
+I am a health data scientist based in Los Angeles. I have a clinical background as a board-certified Occupational Therapist, and I am a freshly minted Ph.D. from the University of Southern California (thesis: _Neural and psychosocial correlates of age-related changes in goal-directed and habitual decision-making_). I am a proponent of open science and open source programming, a pandemic-converted plant mom, an avid photographer, and nature seeker. 
 
 <br />
 
@@ -12,11 +12,11 @@ I am a health research and data scientist based in Los Angeles. I have a clinica
 <a href="https://github.com/kaoriito/icu_los">Github</a>
 <br />
 <br />
-   I used the Medical Information Mart for Intensive Care III (MIMIC-III) database to predict ICU length of stay, and engineered physician notes (using Bag of Words natural language processing), previous hospital admissions, ICD codes, and demographic data as features in an XGBoost model. 
+   I used the Medical Information Mart for Intensive Care III (MIMIC-III) database to predict ICU length of stay, and engineered physician notes (using Bag of Words natural language processing), previous hospital admissions, physiological data, ICD codes, and demographic data as features in an XGBoost model. 
 
 <br />
 
-   Baseline MSE was improved from 40.44 to 12.13 (test MSE), and baseline MAE was improved from 3.46 to 1.24 (test MAE).
+   Baseline MSE was improved from 39.69 to 1.85 (test MSE), and baseline MAE was improved from 3.44 to 0.61 (test MAE).
 
   
 </details>
@@ -29,7 +29,8 @@ I am a health research and data scientist based in Los Angeles. I have a clinica
   
 <br />
 
-More details coming soon!
+  I studied how the brain and other psychosocial variables, such as stress, are related to changes in decision-making with aging. I used a reinforcement learning paradigm (using MCMC for parameter estimation) to measure decision-making strategies in young and older adults, and then used K-means clustering to group different types of learners together. Since I had a lot of input variables, I used a multinomial logistic lasso regression to determine which psychosocial variables are the strongest predictors of decision-making, and found age and working memory to be the primary predictor across both young and older adults. More details to come soon.
+  
 </details>
 
 <br /> 
@@ -39,7 +40,7 @@ More details coming soon!
   
 <br />
 
-More details coming soon!
+I am currently working on a project using various corticospinal tract lesion loads to predict post-stroke motor outcomes. More details to come soon.
 </details>
 
 <br />
