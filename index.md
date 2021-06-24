@@ -38,7 +38,10 @@ I am a proponent of open science and open source programming, a pandemic-convert
   I used a reinforcement learning paradigm (using MCMC for parameter estimation) to measure decision-making strategies in young and older adults, and then used K-means clustering to group different types of learners together. 
 <br />
 <br />
-  Since I had a lot of input variables, I used a multinomial logistic lasso regression to determine which psychosocial variables are the strongest predictors of decision-making, and found age and working memory to be the primary predictor across both young and older adults. More details to come soon.
+  Since I had a lot of input variables, I used a multinomial logistic lasso regression to determine which psychosocial variables are the strongest predictors of decision-making, and found age and working memory to be the primary predictor across both young and older adults. 
+<br />
+<br /> 
+More details to come.  
   
 </details>
 
@@ -49,7 +52,7 @@ I am a proponent of open science and open source programming, a pandemic-convert
   
 <br />
 
-I am currently working on a project using various corticospinal tract lesion loads to predict post-stroke motor outcomes. More details to come soon.
+I am currently working on a project using various corticospinal tract lesion loads to predict post-stroke motor outcomes.
 </details>
 
 <br />
