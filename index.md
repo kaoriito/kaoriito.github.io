@@ -2,6 +2,7 @@
 
 I am a health data scientist based in Los Angeles. I have a clinical background as a board-certified Occupational Therapist, and I am a freshly minted Ph.D. from the University of Southern California (thesis: _Neural and psychosocial correlates of age-related changes in goal-directed and habitual decision-making_). 
 <br />
+<br />
 I am a proponent of open science and open source programming, a pandemic-converted plant mom, an avid photographer, and nature enthusiast. 
 
 <br />
