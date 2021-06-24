@@ -30,9 +30,9 @@ I am a health data scientist based in Los Angeles. I have a clinical background 
 <br />
 
   I studied how the brain and other psychosocial variables, such as stress, are related to changes in decision-making with aging. 
-  
+<br />
   I used a reinforcement learning paradigm (using MCMC for parameter estimation) to measure decision-making strategies in young and older adults, and then used K-means clustering to group different types of learners together. 
-  
+<br />
   Since I had a lot of input variables, I used a multinomial logistic lasso regression to determine which psychosocial variables are the strongest predictors of decision-making, and found age and working memory to be the primary predictor across both young and older adults. More details to come soon.
   
 </details>
